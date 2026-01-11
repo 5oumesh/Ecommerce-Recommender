@@ -452,7 +452,7 @@ If you use this project in research, please cite:
 ```bibtex
 @software{ecommerce_recommender_2026,
   title={E-Commerce Hierarchical Recommendation System},
-  author={Your Name},
+  author= {Soumesh Suman Murmu},
   year={2026},
   url={https://github.com/yourusername/ecommerce-recommender}
 }
@@ -468,8 +468,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Project Lead**: [Your Name]
-- **Contributors**: [List contributors]
+- **Project Lead**: Soumesh Suman Murmu
+- **Contributors**: 
 
 ---
 
@@ -485,7 +485,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or issues:
 - Open an GitHub issue
-- Email: [your-email@example.com]
+- Email: suman43soumesh@gmail.com
 - Documentation: See `/docs` folder
 
 ---
