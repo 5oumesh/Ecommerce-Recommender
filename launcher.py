@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-🛍️ E-COMMERCE RECOMMENDATION SYSTEM LAUNCHER
+E-COMMERCE RECOMMENDATION SYSTEM LAUNCHER
 Your personal shopping assistant with hierarchical category browsing
 """
 
 def main_menu():
     print("\n" + "="*80)
-    print("🛍️  E-COMMERCE RECOMMENDATION SYSTEM")
+    print(" E-COMMERCE RECOMMENDATION SYSTEM")
     print("="*80)
     print("""
 Welcome! Choose how to explore products:
@@ -29,7 +29,7 @@ Welcome! Choose how to explore products:
 """)
     
     while True:
-        choice = input("👉 Enter your choice (1-5): ").strip()
+        choice = input("Enter your choice (1-5): ").strip()
         
         if choice == '1':
             print("\n" + "="*80)
@@ -56,15 +56,15 @@ Welcome! Choose how to explore products:
             input("\n[Press Enter to continue...]")
         
         elif choice == '5':
-            print("\n👋 Thank you for using the E-Commerce Recommendation System!\n")
+            print("\nThank you for using the E-Commerce Recommendation System!\n")
             break
         
         else:
-            print("❌ Invalid choice. Please enter 1-5.")
+            print("Invalid choice. Please enter 1-5.")
 
 def show_statistics():
     print("\n" + "="*80)
-    print("📊 SYSTEM STATISTICS")
+    print("SYSTEM STATISTICS")
     print("="*80)
     print("""
 DATASET SIZE
@@ -93,7 +93,7 @@ EVALUATION METRICS (on test set)
 
 def show_guide():
     print("\n" + "="*80)
-    print("📚 QUICK START GUIDE")
+    print("QUICK START GUIDE")
     print("="*80)
     print("""
 STEP 1: LAUNCH THE SYSTEM
