@@ -454,7 +454,7 @@ If you use this project in research, please cite:
   title={E-Commerce Hierarchical Recommendation System},
   author= {Soumesh Suman Murmu},
   year={2026},
-  url={https://github.com/yourusername/ecommerce-recommender}
+  url={https://github.com/5oumesh/ecommerce-recommender}
 }
 ```
 
@@ -468,8 +468,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Project Lead**: Soumesh Suman Murmu
-- **Contributors**: 
+- **Project Creator**: Soumesh Suman Murmu
 
 ---
 
